@@ -11,7 +11,7 @@ I'm currently doing studies and a internship at CodeCollege in South-Africa. The
 * 🚀  I'm currently working on [E-commerce-app](http://pricecityapp.herokuapp.com/)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting Mern stack apps
-* ⚡  I also fly racing pigeons as a hobby and sports shooting
+* ⚡  I also fly racing pigeons and love sport shooting!!
 
 ### Skills
 
@@ -33,22 +33,26 @@ I'm currently doing studies and a internship at CodeCollege in South-Africa. The
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Brent#8535" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/Brent Lombaard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Brento27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/brent_lombaard_38" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Brent#8535" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/brent.lombaard.7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Brento27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/brent_lombaard_38" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/brent-lombaard-a53b94230" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19398282/brent-lombaard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Brento27"><img src="https://github-readme-stats.vercel.app/api?username=Brento27&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Brento27's GitHub stats" /></a>
+<a href="http://www.github.com/Brento27"><img src="https://github-readme-stats.vercel.app/api?username=Brento27&show_icons=true&hide=stars,&title_color=0891b2&text_color=84cc16&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="Brento27's GitHub stats" /></a>
 
-<a href="http://www.github.com/Brento27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Brento27&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Brento27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Brento27&stroke=84cc16&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=84cc16&currStreakLabel=0891b2&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
-<a href="https://github.com/Brento27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brento27&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Brento27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brento27&langs_count=10&title_color=0891b2&text_color=84cc16&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Brento27/Coding-Bootcamp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brento27&repo=Coding-Bootcamp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Brento27/E-commerce" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brento27&repo=E-commerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Brento27/Coding-Bootcamp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brento27&repo=Coding-Bootcamp&title_color=0891b2&text_color=84cc16&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Brento27/E-commerce" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brento27&repo=E-commerce&title_color=0891b2&text_color=84cc16&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Brento27/React_Front_To_Back" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brento27&repo=React_Front_To_Back&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Brento27/React_Front_To_Back" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brento27&repo=React_Front_To_Back&title_color=0891b2&text_color=84cc16&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/lombaardbrent"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
